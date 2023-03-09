@@ -4,8 +4,12 @@
 - All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
 - Complete custom implementation of all Data Structures and Algorithms.
   
-## Lectures
+## Git and Github guide (can be skipped)
 - [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
+
+## Module 0 : Java Basics
+- you need to learn these basics of programming before starting with DSA
+- this Module can be skipped you already know basics of Java / have coded with Java before 
 - [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
     - [Types of languages](https://youtu.be/wn49bJOYAZM?t=171)
     - [Memory management](https://youtu.be/wn49bJOYAZM?t=1488)
@@ -34,17 +38,26 @@
     - [Memory management](https://youtu.be/n60Dn0UsbEk?t=632)
     - [Input and Output](https://youtu.be/n60Dn0UsbEk?t=1675)
     - [ArrayList Introduction](https://youtu.be/n60Dn0UsbEk?t=4868)
-    - Searching
+
+
+## Module 1 : Searching
+- Searching
         - [Linear Search](https://youtu.be/_HRA37X8N_Q)
         - [Binary Search](https://youtu.be/f6UU7V3szVw)
         - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
         - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
-    - Sorting
+
+## Module 2 : Sorting 
+- Sorting
         - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
         - [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
+
+## Miscellanous : Pattern Questions
 - [Pattern questions](https://youtu.be/lsOOs5J8ycw)
+
+## Module 3 : Strings
 - [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [Introduction](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [How Strings work](https://youtu.be/zL1DPZ0Ovlo?t=216)
